@@ -1,7 +1,7 @@
 {
   "name": "Phanerozoic Life",
   "description": "Basic Life Element of Phanerozoic-GameFi: https://github.com/phanerozoic-gamefi/phanerozoic"
-  "image": "https://phanerozoic-gamefi.github.io/images/test/0.json"
+  "image": "https://phanerozoic-gamefi.github.io/images/test/0.png"
   attributes: {
     "status": 0,
     "gameVersion": "cambrian-1"
